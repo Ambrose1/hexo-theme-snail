@@ -3,17 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Super Snail
-subtitle:
-  At the bottom of the well, it is destined to see only the sky at the wellhead.
-  However, the starting point only affects the process of reaching your peak and does not determine the height you reach.
-author: Dusign
+title: Ambrose yongxu 's blog, life and learn
+subtitle:记录美好生活，读书、摄影、烹饪、旅行、游泳
+author: Ambrose yongxu
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://dusign.net # Note: don't forget to modify the CNAME file to your url
+url: https://github.com/Ambrose1/ambrose1.github.io # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -21,19 +19,19 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Hexo-theme-snail
-email: hexo-theme-snail@mail.com
-description: "A hexo theme"
-keyword: "dusign, hexo-theme-snail"
+SEOTitle: 编码生活
+email: Ambrosedy@163.com
+description: " Ambrose yongxu 's blog, life and learn"
+keyword: "iOS, Rust, Ruby, XCode, 代码, 程序, python"
 header-img: img/header_img/home-bg-1-dark.jpg
 signature: true #show signature
 signature-img: img/signature/dusign.png
 
 # SNS settings
-github_username: dusign
-twitter_username: dusignr
-facebook_username: Gang Du
-zhihu_username: dusignr
+github_username: Ambrose1
+#twitter_username: dusignr
+#facebook_username: Gang Du
+#zhihu_username: dusignr
 
 # Build settings
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
@@ -42,12 +40,12 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: "UA-XXXXXXXX-X" # Format: UA-xxxxxx-xx
-ga_domain: yoursite
+#ga_track_id: "UA-XXXXXXXX-X" # Format: UA-xxxxxx-xx
+#ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Welcome to visit, I'm Dusign!"
+sidebar-about-description: "Welcome to visit, I'm Ambrose dyx!"
 sidebar-avatar: img/ironman-draw.png # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
   - search
@@ -78,9 +76,9 @@ featured-condition-size: 1 # A tag will be featured if the size of it is more th
 ## Friends
 friends:
   [
-    { title: "Dusign's Blog", href: "https://blog.csdn.net/d_Nail" },
-    { title: "Dusign's Web", href: "#" },
-    { title: "Dusign's Github", href: "https://github.com/dusign" },
+    { title: "yongxu's Blog", href: "https://github.com/Ambrose1/ambrose1.github.io" },
+    { title: "yongxu's Web", href: "#" },
+    { title: "yongxu's Github", href: "https://github.com/Ambrose1" },
     { title: "Other", href: "#" },
   ]
 
@@ -182,10 +180,10 @@ share: true
 comment:
   gitment:
     enable: false
-    owner:
-    repo:
-    client_id:
-    client_secret:
+    owner:Ambrose1
+    repo:ambrose1.github.io
+    client_id:Ov23liTPaimEIF2pZF97
+    client_secret:1c77af999002f2598efc679774b9f635d3b5a6cf
   livere:
     enable: false
   disqus:
@@ -201,7 +199,7 @@ comment:
 ### netease; qqkg;
 ### if your `library` is `qqkg`, please set `music` as the song url
 music:
-  enable: true
+  enable:false
   library: netease
   music: https://kg.qq.com/node/play?s=7deFpz7Z26Jmv7di&g_f=share_html
 
@@ -247,4 +245,4 @@ visitor:
 # Chinese Blog
 chinese_blog:
   enable: true
-  url: YOUR_CHINESE_BLOG_URL
+  url: https://github.com/Ambrose1/ambrose1.github.io
