@@ -4,7 +4,7 @@
 
 # Site
 title: Ambrose yongxu 's blog, life and learn
-subtitle:记录美好生活，读书、摄影、烹饪、旅行、游泳
+subtitle: 记录美好生活，读书、摄影、烹饪、旅行、游泳
 author: Ambrose yongxu
 language: en
 timezone:
@@ -59,7 +59,7 @@ widgets:
 
 ## Search
 search:
-  enable: true
+  enable: false
   path: search.xml
   field: post
   content: true
@@ -180,10 +180,10 @@ share: true
 comment:
   gitment:
     enable: false
-    owner:Ambrose1
-    repo:ambrose1.github.io
-    client_id:Ov23liTPaimEIF2pZF97
-    client_secret:1c77af999002f2598efc679774b9f635d3b5a6cf
+    owner: Ambrose1
+    repo: ambrose1.github.io
+    client_id: Ov23liTPaimEIF2pZF97
+    client_secret: 1c77af999002f2598efc679774b9f635d3b5a6cf
   livere:
     enable: false
   disqus:
@@ -199,13 +199,13 @@ comment:
 ### netease; qqkg;
 ### if your `library` is `qqkg`, please set `music` as the song url
 music:
-  enable:false
+  enable: false
   library: netease
   music: https://kg.qq.com/node/play?s=7deFpz7Z26Jmv7di&g_f=share_html
 
 # Tip
 tip:
-  enable: true
+  enable: false
   copyright: This is copyright.
   content: false
 
